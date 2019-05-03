@@ -1,0 +1,3 @@
+<hdc id="hdcAT" type="AT" drives="[{name:"47Mb Hard Disk",type:5}]">
+<control type="button" binding="saveHD0" padLeft="8px" padBottom="8px" padRight="8px">存硬盘</control>
+</hdc>
